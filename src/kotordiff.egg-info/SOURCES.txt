@@ -1,0 +1,13 @@
+LICENSE
+README.md
+pyproject.toml
+setup.py
+src/kotordiff/__init__.py
+src/kotordiff/__main__.py
+src/kotordiff/gui.py
+src/kotordiff.egg-info/PKG-INFO
+src/kotordiff.egg-info/SOURCES.txt
+src/kotordiff.egg-info/dependency_links.txt
+src/kotordiff.egg-info/entry_points.txt
+src/kotordiff.egg-info/requires.txt
+src/kotordiff.egg-info/top_level.txt

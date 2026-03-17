@@ -1,0 +1,2 @@
+[console_scripts]
+kotordiff = kotordiff.__main__:main
